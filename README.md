@@ -1,7 +1,7 @@
 CoffeeScript Grunt Boilerplate
 ===
 
-CoffeeScript configuration for grunt and an autoreload server intended for games or small apps that are interactive.
+CoffeeScript configuration for grunt and an autoreload server intended for games or small interactive apps.
 
 ## Getting Started
 
