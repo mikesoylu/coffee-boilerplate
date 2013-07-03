@@ -11,8 +11,11 @@ module.exports = function( grunt ) {
 
     coffee: {
       compile: {
-        src: ['src/*.coffee'],
-        dest: 'out/main.js'
+        expand: true,
+        cwd: 'src',
+        src: '*.coffee',
+        dest: 'out',
+        ext: '.js'
       }
     },
 

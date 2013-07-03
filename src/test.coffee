@@ -1,1 +1,1 @@
-document.body.appendChild document.createTextNode "yay!"
+console.log 'hello world'
